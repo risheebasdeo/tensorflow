@@ -10,10 +10,15 @@ The language of choice for TensorFlow is Python.  By far, more TensorFlow librar
 
 #### IDE
 
-We'll get started with the [PyCharm](https://www.jetbrains.com/pycharm/) IDE.  An open-source community edition is available.
+We'll get started with the [PyCharm](https://www.jetbrains.com/pycharm/) IDE.  An open-source community edition is available.  This guide was written using PyCharm, but feel free to use any IDE you feel comfortable with.
 
-The following guide helps to install the TensorFlow package for use in PyCharm (instructions for Mac):
+The following guide helps to install the TensorFlow package for use in PyCharm:
+##### Instructions for Mac
 https://gist.github.com/gembin/634b4f462766a8a79c3035a85bbcd7a7
+
+##### Instructions for Windows
+https://pathtogeek.com/installing-tensorflow-on-window-with-pycharm-ide
+
 
 ## Getting Started
 
